@@ -1,2 +1,5 @@
 scikit-learn
 joblib
+onnx 
+onnxruntime
+numpy
